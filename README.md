@@ -1,4 +1,5 @@
 TAMIL NADU METRO SYSTEM:
+
 0 Chennai
 1 Chengalpattu 
 2 Kanchipuram
@@ -27,9 +28,11 @@ TAMIL NADU METRO SYSTEM:
 25 Bengaluru
 
 Enter Source ID: 12
+
 Enter Destination ID: 7
 
 SOURCE: Madurai
+
 DESTINATION: Coimbatore
 
 ROUTE:
